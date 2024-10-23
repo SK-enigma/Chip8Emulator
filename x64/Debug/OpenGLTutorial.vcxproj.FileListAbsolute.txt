@@ -1,0 +1,2 @@
+C:\Projects\OpenGLTutorial\x64\Debug\OpenGLTutorial.exe
+C:\Projects\Chip8Emulator\x64\Debug\Chip8project.exe

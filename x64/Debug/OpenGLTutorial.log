@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OpenGLTutorial.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Chip8.cpp
+C:\Projects\Chip8Emulator\src\Chip8.cpp(37,69): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  main.cpp
+  Platform.cpp
+  Generating Code...
+  glad.c
+  OpenGLTutorial.vcxproj -> C:\Projects\Chip8Emulator\x64\Debug\Chip8project.exe
