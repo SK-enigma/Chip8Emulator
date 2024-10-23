@@ -1,6 +1,21 @@
-# Ignore Visual Studio files
+# Ignore Visual Studio solution and project files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.opendb
+*.obj
+*.exe
+*.log
+
+# Ignore build output
+/x64/
+/Debug/
+/Release/
+
+# Ignore .vs directory (Visual Studio temporary files)
 .vs/
-*.VC.opendb
-*.VC.db
-*.user
-*.suo
+
+# Ignore OpenGL and third-party libraries
+Linking/
+*.dll
